@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Regeneracion de globulos rojos, transfusion sanguinea, modelo matematico, regeneracion, paciente.
 
 ## Lista de archivos incluidos en el repositorio
 
