@@ -2,9 +2,9 @@
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Maria Cristina Lopez Lopez [22212259]; l22212259@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
