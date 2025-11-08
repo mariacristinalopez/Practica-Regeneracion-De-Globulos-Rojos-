@@ -36,9 +36,9 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
+1. x1(0) = 59.1630   58.7785   59.5551   58.7764   58.7537   59.4230   59.2951   58.4962   58.5228   59.0685;
+2. x2(0) = 44.1216   43.8348   44.4140   43.8333   43.8163   44.3155   44.2201   43.6243   43.6441   44.0511;
+3. x3(0) = 887.4453  881.6781  893.3272  881.6464  881.3060  891.3455  889.4266  877.4431  877.8418  886.0270;
 
 
 
