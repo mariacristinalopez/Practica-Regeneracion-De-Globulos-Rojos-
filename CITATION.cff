@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Maria Cristina
+    family-names: Lopez Lopez
+    affiliation: TECNM-ITT
+    email: l22212259@tectijuana.edu.mx
+repository-code: >-
+  https://github.com/mariacristinalopez/Practica-Regeneracion-De-Globulos-Rojos-/blob/main/README.md
+keywords:
+  - Regeneracion de globulos rojos
+  - transfusion sanguinea
+  - modelo matematico
+  - regeneracion
+  - Paciente
+license: BSD-3-Clause
+version: '1.0'
+date-released: '2025-11-07'
